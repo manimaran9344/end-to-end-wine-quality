@@ -1,1 +1,3 @@
-print("Hello, World!")
+from mlproject import logger
+
+logger.info("welcome to ml project")
